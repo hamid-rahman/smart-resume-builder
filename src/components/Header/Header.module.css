@@ -1,0 +1,25 @@
+.container{
+    padding: 30px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: #f0fdff;
+background: linear-gradient(107deg,#f0fdff 0%, #d7f7fb 95%);
+}
+.container .heading{
+    background: #000;
+    background-clip: text;
+    font-size: 3em;
+    width: 350px;
+    color: transparent;
+}
+.container .heading .resColor{
+    background: #6c63ff;
+    background: linear-gradient(107deg,#6c63ff 0%, #0e5b65ed 95%);
+   background-clip: text;
+   color: transparent;
+}
+.right img{
+    width: 500px;
+}
